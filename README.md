@@ -5,7 +5,7 @@ Software Quality Testing
 
 | No  | Judul Projek        | Introduction                                                       | Audience | Nama Pengujian                | Link SQA                                                                                             |
 | --- | ------------------- | ------------------------------------------------------------------ | -------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat | User     | Test1-loginpengguna->halaman dashboard-->halaman cek kesehatan | [test1](https://software-qualty.github.io/Rizkyria/HealHerooApp) |
+| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat | User     | Test1-loginpengguna->halaman dashboard-->halaman cek kesehatan | [test1](https://github.com/Software-Quality-Baik/Rizkyria/HealHerooApp) |
 
 # Panduan Penggunaan
 
